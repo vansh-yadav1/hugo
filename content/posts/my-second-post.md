@@ -4,4 +4,4 @@ draft = false
 title = 'My Second Post'
 +++
 
-![My Image](static/myresume.jpeg)
+![My Image](/static/myresume.jpeg)
