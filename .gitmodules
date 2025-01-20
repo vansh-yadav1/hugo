@@ -1,0 +1,7 @@
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "public"]
+	path = public
+	url = https://github.com/vansh-yadav1/vansh-yadav1.github.io.git
+	branch = main
